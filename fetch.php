@@ -1,4 +1,3 @@
-<!-- Ark's LUR fetch Function -->
 <?php  
  $connect = mysqli_connect("localhost", "root", "", "search");  
  $output = '';  
