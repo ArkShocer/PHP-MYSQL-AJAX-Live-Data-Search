@@ -1,8 +1,4 @@
-<!-- Ark's LUR Search Function -->
 <html>  
-        <link rel="stylesheet" href="js/gallery/examples/standard/css/vendor/normalize.css">
-        <link rel="stylesheet" href="js/gallery/dist/gallery.prefixed.css">
-        <link rel="stylesheet" href="js/gallery/dist/gallery.theme.css">
       <head>  
            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
            <title>Ajax PHP Live Data Search</title>  
